@@ -13,8 +13,7 @@ public class ClassA {
 		System.out.println("C");
 
 	}
-	
-	private void india() {
+    private void india() {
 		System.out.println("ind");
 
 	}
@@ -25,6 +24,19 @@ public class ClassA {
 	private void china() {
        
 		System.out.println("china");
-	}
 
+	}
+	
+	private void tamilnadu() {
+		System.out.println("1");
+
+	}
+	private void kerala() {
+		System.out.println("1");
+
+	}
+	private void delhi() {
+		System.out.println("1");
+
+	}
 }
