@@ -13,5 +13,18 @@ public class ClassA {
 		System.out.println("C");
 
 	}
+	
+	private void india() {
+		System.out.println("ind");
+
+	}
+	private void srilanka() {
+		System.out.println("sri");
+
+	}
+	private void china() {
+       
+		System.out.println("china");
+	}
 
 }
